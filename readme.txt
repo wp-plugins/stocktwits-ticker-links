@@ -1,7 +1,7 @@
 === StockTwits Ticker Link ===
 Contributors: stocktwits, Chris Corriveau
 Tags: stocks, finance, investment, links, stocktwits
-Requires at least: 2.7
+Requires at least: 2.2
 Tested up to: 2.7
 Stable tag: 1.0
 
