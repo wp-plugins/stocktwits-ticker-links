@@ -13,7 +13,7 @@ function process_content ($content)
    $content =
       preg_replace (
          '/\$((?:[0-9]+(?=[a-z])|(?![0-9\.\:\_\-]))(?:[a-z0-9]|[\_\.\-\:](?![\.\_\.\-\:]))*[a-z0-9]+)/i',
-         "<a href=\"http://www.stocktwits.com/t/$1\" class=\"ticker\" target=\"new\"><span>\$</span>$1</a>",
+         "<a href=\"http://stocktwits.com/$1\" class=\"ticker\" target=\"new\"><span>\$</span>$1</a>",
          $content
          );
 
