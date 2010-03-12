@@ -2,8 +2,8 @@
 Contributors: stocktwits, Chris Corriveau
 Tags: stocks, finance, investment, links, stocktwits
 Requires at least: 2.2
-Tested up to: 2.7
-Stable tag: 1.0
+Tested up to: 2.9
+Stable tag: 1.1
 
 This plugin changes your standard ticker symbols like $AAPL or $GOOG and will automatically link the ticker to realtime discussions at stocktwits.com
 
